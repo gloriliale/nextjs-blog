@@ -6,6 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "cloudinary": "^1.40.0",
     "date-fns": "^2.30.0",
     "formik": "^2.4.4",
     "gray-matter": "^4.0.3",
